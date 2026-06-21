@@ -1,6 +1,6 @@
 # 🚀 Streamlit App
 
-A simple and interactive web application built using **Streamlit**. This project demonstrates how to create and deploy data-driven applications quickly with Python.
+A simple and interactive web application built using **Streamlit**. This project demonstrates how  to create and deploy data-driven applications quickly with Python.
 
 ## 📌 Features
 
