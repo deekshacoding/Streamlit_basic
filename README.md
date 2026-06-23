@@ -18,12 +18,9 @@ A simple and interactive web application built using **Streamlit**. This project
 ## 📂 Project Structure
 
 ```bash
-.
-├── app.py              # Main Streamlit application
-├── requirements.txt    # Project dependencies
-├── README.md           # Project documentation
-└── assets/             # Images, datasets, or other resources
-```
+
+streamlit_demo.py
+streamlit_summary.py
 
 ## 🚀 Getting Started
 
