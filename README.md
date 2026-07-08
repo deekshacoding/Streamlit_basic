@@ -23,12 +23,9 @@ streamlit_demo.py
 streamlit_summary.py
 README.md 
 
-### 2. Create a Virtual Environment (Optional)
 
-```bash
-python -m venv venv
+
 ```
-
 Activate the environment:
 
 **Windows**
