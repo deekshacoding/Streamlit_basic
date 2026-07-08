@@ -21,15 +21,7 @@ A simple and interactive web application built using **Streamlit**. This project
 
 streamlit_demo.py
 streamlit_summary.py
-
-## 🚀 Getting Started
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/your-username/your-repository-name.git
-cd your-repository-name
-```
+README.md 
 
 ### 2. Create a Virtual Environment (Optional)
 
